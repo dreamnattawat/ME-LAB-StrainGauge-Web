@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# ME-LAB-Strain gauges React app
+
+code by Nattawat Arayikanon [Mechanical Engineer Student @ Chulalongkorn university]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
